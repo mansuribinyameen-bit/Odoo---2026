@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+/* App-level defaults */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
